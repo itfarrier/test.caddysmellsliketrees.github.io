@@ -5,24 +5,24 @@
       "path---lyrics-teplo-bezdonnoe-5f52dbacf693da0b2b3f.js.map"
     ],
     "path---lyrics": [
-      "path---lyrics-32dbf27bb240d8a5833a.js",
-      "path---lyrics-32dbf27bb240d8a5833a.js.map"
+      "path---lyrics-ef0f5cb2ddf8dc0c69f2.js",
+      "path---lyrics-ef0f5cb2ddf8dc0c69f2.js.map"
     ],
     "component---src-templates-lyrics-template-js": [
-      "component---src-templates-lyrics-template-js-2fae8e0eca8c29ae4c6a.js",
-      "component---src-templates-lyrics-template-js-2fae8e0eca8c29ae4c6a.js.map"
+      "component---src-templates-lyrics-template-js-f281402b2efbeea056dc.js",
+      "component---src-templates-lyrics-template-js-f281402b2efbeea056dc.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-999b9585d317f20838c9.js",
-      "component---src-pages-index-js-999b9585d317f20838c9.js.map"
+      "component---src-pages-index-js-a3f74016e6c3611800fb.js",
+      "component---src-pages-index-js-a3f74016e6c3611800fb.js.map"
     ],
     "path---lyrics-bez-imeni": [
       "path---lyrics-bez-imeni-17a153c1e7ab88a2c440.js",
       "path---lyrics-bez-imeni-17a153c1e7ab88a2c440.js.map"
     ],
     "path---lyrics-gerbarij": [
-      "path---lyrics-gerbarij-d54a98faa7bd1e376c78.js",
-      "path---lyrics-gerbarij-d54a98faa7bd1e376c78.js.map"
+      "path---lyrics-gerbarij-6cb4d4989c16a9554070.js",
+      "path---lyrics-gerbarij-6cb4d4989c16a9554070.js.map"
     ],
     "path---": [
       "path----dcf383eb6cd4ce0efedf.js",
@@ -45,16 +45,16 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-pages-lyrics-js": [
-      "component---src-pages-lyrics-js-726cf5035a6248e023ca.js",
-      "component---src-pages-lyrics-js-726cf5035a6248e023ca.js.map"
+      "component---src-pages-lyrics-js-1f8f5ab7f194407f88d8.js",
+      "component---src-pages-lyrics-js-1f8f5ab7f194407f88d8.js.map"
     ],
     "path---lyrics-igrushki": [
       "path---lyrics-igrushki-4a96c485dcbfae7b007d.js",
       "path---lyrics-igrushki-4a96c485dcbfae7b007d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b2785363c7a7cb1c7817.js",
-      "component---src-layouts-index-js-b2785363c7a7cb1c7817.js.map"
+      "component---src-layouts-index-js-e827bdd70752e66115a3.js",
+      "component---src-layouts-index-js-e827bdd70752e66115a3.js.map"
     ],
     "path---lyrics-v-kluvikah": [
       "path---lyrics-v-kluvikah-7e88fc2aab67bae34337.js",
@@ -77,8 +77,8 @@
       "path---lyrics-malchik-batiskaf-0bae940e5030e7046b73.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-eaa62b4b4f919db7c475.js",
-      "component---src-pages-404-js-eaa62b4b4f919db7c475.js.map"
+      "component---src-pages-404-js-a8a58410f548f701882e.js",
+      "component---src-pages-404-js-a8a58410f548f701882e.js.map"
     ],
     "commons": [
       "commons-cfe08c15100186618874.js",
@@ -107,9 +107,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7414af00c7478455e101.js",
+      "app-5e25d496db1816291ba4.js",
       "build-js-styles.css",
-      "app-7414af00c7478455e101.js.map",
+      "app-5e25d496db1816291ba4.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -117,8 +117,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-a45a50ae59b4f72013e4.js",
-      "component---src-pages-about-js-a45a50ae59b4f72013e4.js.map"
+      "component---src-pages-about-js-b0647085f04ce4acef99.js",
+      "component---src-pages-about-js-b0647085f04ce4acef99.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
