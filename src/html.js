@@ -1,53 +1,55 @@
-import PropTypes from "prop-types";
 import React from "react";
 
-const stylesStr =
-  process.env.NODE_ENV === "production"
-    ? () => {
-        try {
-          require("!raw-loader!../public/styles.css");
-        } catch (e) {
-          console.log(e);
-        }
-      }
-    : null;
+let stylesStr;
 
-class HTML extends React.Component {
+if (process.env.NODE_ENV === "production") {
+  try {
+    stylesStr = require("!raw-loader!../public/styles.css");
+  } catch (error) {
+    console.log(error);
+  }
+}
+
+module.exports = class HTML extends React.Component {
   render() {
-    const css =
-      process.env.NODE_ENV === "production" ? (
+    let css;
+
+    if (process.env.NODE_ENV === "production") {
+      css = (
         <style
           id="gatsby-inlined-css"
           dangerouslySetInnerHTML={{ __html: stylesStr }}
         />
-      ) : null;
+      );
+    }
+
     return (
-      <html dir="ltr" lang="ru" {...this.props.htmlAttributes}>
+      <html {...this.props.htmlAttributes}>
         <head>
+          <meta charSet="utf-8" />
+          <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+          />
           {this.props.headComponents}
           {css}
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
           <div
-            key={`body`}
-            id="___gatsby"
             dangerouslySetInnerHTML={{ __html: this.props.body }}
+            id="___gatsby"
+            key={"body"}
+            style={{
+              display: "flex",
+              minHeight: "100vh",
+              flexDirection: "column"
+            }}
           />
           {this.props.postBodyComponents}
         </body>
       </html>
     );
   }
-}
-
-HTML.propTypes = {
-  body: PropTypes.string.isRequired,
-  bodyAttributes: PropTypes.array,
-  headComponents: PropTypes.array.isRequired,
-  htmlAttributes: PropTypes.string,
-  postBodyComponents: PropTypes.array.isRequired,
-  preBodyComponents: PropTypes.array.isRequired
 };
-
-export default HTML;
