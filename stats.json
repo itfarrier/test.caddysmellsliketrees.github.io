@@ -141,9 +141,9 @@
       "path---ru-lyrics-saga-o-ronine-ac8f1ba4c9a6a7ad2e69.js.map"
     ],
     "commons": [
-      "commons-df12f18f4267cca8d7b1.js",
+      "commons-4e6f8c5ae6d519e5e343.js",
       "build-js-styles.css",
-      "commons-df12f18f4267cca8d7b1.js.map",
+      "commons-4e6f8c5ae6d519e5e343.js.map",
       "build-js-styles.css.map"
     ],
     "path---en-lyrics-to-li": [
@@ -155,8 +155,8 @@
       "path---ru-about-09db983fa41b4b97cbb4.js.map"
     ],
     "component---src-pages-about-en-tsx": [
-      "component---src-pages-about-en-tsx-0083b8cebd346bb93b84.js",
-      "component---src-pages-about-en-tsx-0083b8cebd346bb93b84.js.map"
+      "component---src-pages-about-en-tsx-bac28e4aae7ff4429dcb.js",
+      "component---src-pages-about-en-tsx-bac28e4aae7ff4429dcb.js.map"
     ],
     "component---src-pages-404-tsx": [
       "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
@@ -235,22 +235,22 @@
       "component---src-pages-news-ru-tsx-a8e4fdc5352293c5cf25.js.map"
     ],
     "component---src-layouts-en-tsx": [
-      "component---src-layouts-en-tsx-eaaed6c39c91ad989c4b.js",
-      "component---src-layouts-en-tsx-eaaed6c39c91ad989c4b.js.map"
+      "component---src-layouts-en-tsx-b6d6a4b18cece7f870d2.js",
+      "component---src-layouts-en-tsx-b6d6a4b18cece7f870d2.js.map"
     ],
     "component---src-pages-news-en-tsx": [
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js",
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js.map"
     ],
     "app": [
-      "app-e5ccc508f944af4f0adc.js",
+      "app-3ea4306dc414ad777841.js",
       "build-js-styles.css",
-      "app-e5ccc508f944af4f0adc.js.map",
+      "app-3ea4306dc414ad777841.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-layouts-ru-tsx": [
-      "component---src-layouts-ru-tsx-8a2e682d259d54dbfa88.js",
-      "component---src-layouts-ru-tsx-8a2e682d259d54dbfa88.js.map"
+      "component---src-layouts-ru-tsx-1fb3626522ea0f2bf0d2.js",
+      "component---src-layouts-ru-tsx-1fb3626522ea0f2bf0d2.js.map"
     ],
     "path---ru-videos": [
       "path---ru-videos-08c8df2d4e53430c6c61.js",
