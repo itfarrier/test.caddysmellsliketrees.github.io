@@ -1,2 +1,2 @@
-webpackJsonp([59293495187608],{767:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Second Post",type:"post"},html:"<h1>Second Post</h1>\n<p>Some content</p>"}},pathContext:{path:"/en/news/secondPost/",langKey:"en"}}}});
+webpackJsonp([59293495187608],{768:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"Second Post",type:"post"},html:"<h1>Second Post</h1>\n<p>Some content</p>"}},pathContext:{path:"/en/news/secondPost/",langKey:"en"}}}});
 //# sourceMappingURL=path---en-news-second-post-ce53d54a42735c5580cc.js.map
