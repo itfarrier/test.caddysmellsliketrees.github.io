@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{474:function(a,t){a.exports={data:{site:{siteMetadata:{languages:{defaultLangKey:"en",langs:["en","ru"]}}}},layoutContext:{}}},475:function(a,t){a.exports={data:{site:{siteMetadata:{languages:{defaultLangKey:"en",langs:["en","ru"]}}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{476:function(a,t){a.exports={data:{site:{siteMetadata:{languages:{defaultLangKey:"en",langs:["en","ru"]}}}},layoutContext:{}}},477:function(a,t){a.exports={data:{site:{siteMetadata:{languages:{defaultLangKey:"en",langs:["en","ru"]}}}},layoutContext:{}}}});
 //# sourceMappingURL=path----c56df27316fbaa3c4055.js.map
