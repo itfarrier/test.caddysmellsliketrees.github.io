@@ -17,12 +17,16 @@
       "path---en-lyrics-gerbarij-2bd36b402975c5f6c917.js.map"
     ],
     "path---en-news": [
-      "path---en-news-86388e6f64d711516f05.js",
-      "path---en-news-86388e6f64d711516f05.js.map"
+      "path---en-news-46cb24ecbb2dbbe03662.js",
+      "path---en-news-46cb24ecbb2dbbe03662.js.map"
     ],
     "path---en-lyrics": [
-      "path---en-lyrics-5d1f62e13e11d9c23433.js",
-      "path---en-lyrics-5d1f62e13e11d9c23433.js.map"
+      "path---en-lyrics-821e0af50d02f62ec808.js",
+      "path---en-lyrics-821e0af50d02f62ec808.js.map"
+    ],
+    "component---src-pages-photos-ru-tsx": [
+      "component---src-pages-photos-ru-tsx-f8aeba5c8978b7b9f3bf.js",
+      "component---src-pages-photos-ru-tsx-f8aeba5c8978b7b9f3bf.js.map"
     ],
     "path---en-lyrics-kluviki-not": [
       "path---en-lyrics-kluviki-not-ee0e9394ef3220513b45.js",
@@ -37,8 +41,8 @@
       "path---en-lyrics-perepel-6da4b26a542b3e49eab5.js.map"
     ],
     "path---ru-news": [
-      "path---ru-news-0330a4624946fd556a68.js",
-      "path---ru-news-0330a4624946fd556a68.js.map"
+      "path---ru-news-cf8de319cb61e00977bc.js",
+      "path---ru-news-cf8de319cb61e00977bc.js.map"
     ],
     "path---en-lyrics-nelzya-morgat": [
       "path---en-lyrics-nelzya-morgat-ca58ea218f85067be372.js",
@@ -92,10 +96,6 @@
       "path---ru-lyrics-chernoknizhnica-501515dffd7748ff130d.js",
       "path---ru-lyrics-chernoknizhnica-501515dffd7748ff130d.js.map"
     ],
-    "path---ru-store": [
-      "path---ru-store-145e4490f5f7fc37f0b7.js",
-      "path---ru-store-145e4490f5f7fc37f0b7.js.map"
-    ],
     "path---ru-lyrics-malchik-batiskaf": [
       "path---ru-lyrics-malchik-batiskaf-ee0d3bdeb9eb5ee5fe77.js",
       "path---ru-lyrics-malchik-batiskaf-ee0d3bdeb9eb5ee5fe77.js.map"
@@ -111,10 +111,6 @@
     "path---ru-lyrics-kluviki-not": [
       "path---ru-lyrics-kluviki-not-75a670403774ad5fbc7d.js",
       "path---ru-lyrics-kluviki-not-75a670403774ad5fbc7d.js.map"
-    ],
-    "path---en-store": [
-      "path---en-store-c0c96744773cda69b291.js",
-      "path---en-store-c0c96744773cda69b291.js.map"
     ],
     "path---ru-news-second-post": [
       "path---ru-news-second-post-709f80c4c604a96b7998.js",
@@ -145,6 +141,10 @@
       "build-js-styles.css",
       "commons-455d48dd4690655a4b4a.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---ru-photos": [
+      "path---ru-photos-a4a6cdd832f8eb13fa10.js",
+      "path---ru-photos-a4a6cdd832f8eb13fa10.js.map"
     ],
     "path---en-lyrics-to-li": [
       "path---en-lyrics-to-li-221a98b5d4f172d626e2.js",
@@ -182,17 +182,13 @@
       "component---src-templates-template-tsx-a7678f11c0962d2229c2.js",
       "component---src-templates-template-tsx-a7678f11c0962d2229c2.js.map"
     ],
-    "component---src-pages-store-en-tsx": [
-      "component---src-pages-store-en-tsx-3cbbe85c80451bea1cba.js",
-      "component---src-pages-store-en-tsx-3cbbe85c80451bea1cba.js.map"
-    ],
     "path---ru-lyrics-teplo-bezdonnoe": [
       "path---ru-lyrics-teplo-bezdonnoe-23208a813897de7c2b35.js",
       "path---ru-lyrics-teplo-bezdonnoe-23208a813897de7c2b35.js.map"
     ],
-    "component---src-pages-store-ru-tsx": [
-      "component---src-pages-store-ru-tsx-2a3283612049c3f48c2b.js",
-      "component---src-pages-store-ru-tsx-2a3283612049c3f48c2b.js.map"
+    "component---src-pages-photos-en-tsx": [
+      "component---src-pages-photos-en-tsx-70d8dd3f3742bc2fbe3c.js",
+      "component---src-pages-photos-en-tsx-70d8dd3f3742bc2fbe3c.js.map"
     ],
     "path---en-lyrics-saga-o-ronine": [
       "path---en-lyrics-saga-o-ronine-0de527e7f3f5b158a27f.js",
@@ -235,30 +231,34 @@
       "component---src-pages-news-ru-tsx-a8e4fdc5352293c5cf25.js.map"
     ],
     "component---src-layouts-en-tsx": [
-      "component---src-layouts-en-tsx-14d423c9e648605b9a96.js",
-      "component---src-layouts-en-tsx-14d423c9e648605b9a96.js.map"
+      "component---src-layouts-en-tsx-63b56c0355f9f71c245d.js",
+      "component---src-layouts-en-tsx-63b56c0355f9f71c245d.js.map"
     ],
     "component---src-pages-news-en-tsx": [
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js",
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js.map"
     ],
     "app": [
-      "app-39e15033936a944cf89f.js",
+      "app-28bf88c10eac67c1ef78.js",
       "build-js-styles.css",
-      "app-39e15033936a944cf89f.js.map",
+      "app-28bf88c10eac67c1ef78.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-layouts-ru-tsx": [
-      "component---src-layouts-ru-tsx-671cfbaf38d3d420b912.js",
-      "component---src-layouts-ru-tsx-671cfbaf38d3d420b912.js.map"
+      "component---src-layouts-ru-tsx-8f9d72a945a27639355d.js",
+      "component---src-layouts-ru-tsx-8f9d72a945a27639355d.js.map"
+    ],
+    "path---en-photos": [
+      "path---en-photos-678c6b77d94217b903bc.js",
+      "path---en-photos-678c6b77d94217b903bc.js.map"
     ],
     "path---ru-videos": [
       "path---ru-videos-08c8df2d4e53430c6c61.js",
       "path---ru-videos-08c8df2d4e53430c6c61.js.map"
     ],
     "path---ru-lyrics": [
-      "path---ru-lyrics-5094f6f7e8004a5ce5ba.js",
-      "path---ru-lyrics-5094f6f7e8004a5ce5ba.js.map"
+      "path---ru-lyrics-82657a4719348c775fa5.js",
+      "path---ru-lyrics-82657a4719348c775fa5.js.map"
     ],
     "path---en-videos": [
       "path---en-videos-12553282c7cfd541dd2e.js",
@@ -297,8 +297,8 @@
       "path---ru-lyrics-to-li-19ec685dd2002fd0c5ae.js.map"
     ],
     "component---src-pages-about-ru-tsx": [
-      "component---src-pages-about-ru-tsx-c0974303c4dacc8fc193.js",
-      "component---src-pages-about-ru-tsx-c0974303c4dacc8fc193.js.map"
+      "component---src-pages-about-ru-tsx-f4cc580731760c0bc4cf.js",
+      "component---src-pages-about-ru-tsx-f4cc580731760c0bc4cf.js.map"
     ],
     "path---en-lyrics-vnutri-gerbariya": [
       "path---en-lyrics-vnutri-gerbariya-e02d79a9ca786794ded1.js",

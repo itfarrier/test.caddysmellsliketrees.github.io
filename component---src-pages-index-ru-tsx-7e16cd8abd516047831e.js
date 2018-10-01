@@ -1,2 +1,0 @@
-webpackJsonp([0xff7762661a03],{521:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(57),l=n(7),r=function(){return l.createElement(l.Fragment,null,l.createElement("h1",null,"Главная страница"),l.createElement(a.default,{to:"/ru/page-2/"},"На страницу 2"))};t.default=r}});
-//# sourceMappingURL=component---src-pages-index-ru-tsx-7e16cd8abd516047831e.js.map
