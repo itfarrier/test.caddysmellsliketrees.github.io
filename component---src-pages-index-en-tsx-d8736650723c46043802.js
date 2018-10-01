@@ -1,0 +1,2 @@
+webpackJsonp([0xdbbddd8ed920],{520:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(57),l=n(7),d=function(){return l.createElement(l.Fragment,null,l.createElement("h1",null,"Index page"),l.createElement(a.default,{to:"/en/page-2/"},"Go to page 2"))};t.default=d}});
+//# sourceMappingURL=component---src-pages-index-en-tsx-d8736650723c46043802.js.map
