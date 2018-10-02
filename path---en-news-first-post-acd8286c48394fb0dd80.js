@@ -1,2 +1,2 @@
-webpackJsonp([0xc2ba130b3bf0],{760:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"First Post",type:"post"},html:"<h1>First Post</h1>\n<p>Some content</p>"}},pathContext:{path:"/en/news/firstPost/",langKey:"en"}}}});
+webpackJsonp([0xc2ba130b3bf0],{761:function(t,e){t.exports={data:{markdownRemark:{frontmatter:{title:"First Post",type:"post"},html:"<h1>First Post</h1>\n<p>Some content</p>"}},pathContext:{path:"/en/news/firstPost/",langKey:"en"}}}});
 //# sourceMappingURL=path---en-news-first-post-acd8286c48394fb0dd80.js.map
