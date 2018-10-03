@@ -137,9 +137,9 @@
       "path---ru-lyrics-saga-o-ronine-ac8f1ba4c9a6a7ad2e69.js.map"
     ],
     "commons": [
-      "commons-70031d46d84a8f168035.js",
+      "commons-c5fc3984917abb4d9912.js",
       "build-js-styles.css",
-      "commons-70031d46d84a8f168035.js.map",
+      "commons-c5fc3984917abb4d9912.js.map",
       "build-js-styles.css.map"
     ],
     "path---ru-photos": [
@@ -219,8 +219,8 @@
       "path---ru-lyrics-gerbarij-99598ecf41033bb2657e.js.map"
     ],
     "component---src-pages-index-tsx": [
-      "component---src-pages-index-tsx-0bdb4c92067a5afa8066.js",
-      "component---src-pages-index-tsx-0bdb4c92067a5afa8066.js.map"
+      "component---src-pages-index-tsx-97fde3f5cdbc380fbeee.js",
+      "component---src-pages-index-tsx-97fde3f5cdbc380fbeee.js.map"
     ],
     "path---ru-lyrics-terem": [
       "path---ru-lyrics-terem-cc66a1d434b9dfd5208e.js",
@@ -231,22 +231,22 @@
       "component---src-pages-news-ru-tsx-a8e4fdc5352293c5cf25.js.map"
     ],
     "component---src-layouts-en-tsx": [
-      "component---src-layouts-en-tsx-700f5a49c87ed58f9e8e.js",
-      "component---src-layouts-en-tsx-700f5a49c87ed58f9e8e.js.map"
+      "component---src-layouts-en-tsx-01a420563c28d8072fab.js",
+      "component---src-layouts-en-tsx-01a420563c28d8072fab.js.map"
     ],
     "component---src-pages-news-en-tsx": [
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js",
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js.map"
     ],
     "app": [
-      "app-18496e7bfc70e6dc0164.js",
+      "app-7a8fc8dfc940e4d28582.js",
       "build-js-styles.css",
-      "app-18496e7bfc70e6dc0164.js.map",
+      "app-7a8fc8dfc940e4d28582.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-layouts-ru-tsx": [
-      "component---src-layouts-ru-tsx-bfd6d9f88440b4d6411e.js",
-      "component---src-layouts-ru-tsx-bfd6d9f88440b4d6411e.js.map"
+      "component---src-layouts-ru-tsx-f802b4fb36bc0d708780.js",
+      "component---src-layouts-ru-tsx-f802b4fb36bc0d708780.js.map"
     ],
     "path---en-photos": [
       "path---en-photos-678c6b77d94217b903bc.js",
