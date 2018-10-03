@@ -137,9 +137,9 @@
       "path---ru-lyrics-saga-o-ronine-ac8f1ba4c9a6a7ad2e69.js.map"
     ],
     "commons": [
-      "commons-c5fc3984917abb4d9912.js",
+      "commons-481a4c35d1c7058beb12.js",
       "build-js-styles.css",
-      "commons-c5fc3984917abb4d9912.js.map",
+      "commons-481a4c35d1c7058beb12.js.map",
       "build-js-styles.css.map"
     ],
     "path---ru-photos": [
@@ -239,9 +239,9 @@
       "component---src-pages-news-en-tsx-13c06867191bc8d36866.js.map"
     ],
     "app": [
-      "app-7a8fc8dfc940e4d28582.js",
+      "app-19b690977e55f77b2b89.js",
       "build-js-styles.css",
-      "app-7a8fc8dfc940e4d28582.js.map",
+      "app-19b690977e55f77b2b89.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-layouts-ru-tsx": [
