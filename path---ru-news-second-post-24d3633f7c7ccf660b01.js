@@ -1,0 +1,2 @@
+webpackJsonp([0x7090adb9a557],{784:function(t,a){t.exports={data:{markdownRemark:{frontmatter:{title:"Второй пост",type:"post"},html:"<h1>Второй пост</h1>\n<p>Какой-то текст</p>"},site:{siteMetadata:{languages:{defaultLangKey:"en",langs:["en","ru"]}}}},pathContext:{path:"/ru/news/secondPost/",langKey:"ru"}}}});
+//# sourceMappingURL=path---ru-news-second-post-24d3633f7c7ccf660b01.js.map
