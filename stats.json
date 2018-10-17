@@ -1,24 +1,28 @@
 {
   "assetsByChunkName": {
     "path---ru-lyrics-krasnaya-pesnya": [
-      "path---ru-lyrics-krasnaya-pesnya-51c9905e3efde0543104.js",
-      "path---ru-lyrics-krasnaya-pesnya-51c9905e3efde0543104.js.map"
+      "path---ru-lyrics-krasnaya-pesnya-33d17ee8d56c2013cec6.js",
+      "path---ru-lyrics-krasnaya-pesnya-33d17ee8d56c2013cec6.js.map"
     ],
     "component---src-pages-lyrics-ru-tsx": [
-      "component---src-pages-lyrics-ru-tsx-f37db04c50a87d9d9c2d.js",
-      "component---src-pages-lyrics-ru-tsx-f37db04c50a87d9d9c2d.js.map"
+      "component---src-pages-lyrics-ru-tsx-158f057648eeb1378503.js",
+      "component---src-pages-lyrics-ru-tsx-158f057648eeb1378503.js.map"
+    ],
+    "path---en-photos-2017-10-19-flavored-flat": [
+      "path---en-photos-2017-10-19-flavored-flat-d5b3969cf48d70bbef46.js",
+      "path---en-photos-2017-10-19-flavored-flat-d5b3969cf48d70bbef46.js.map"
     ],
     "component---src-layouts-index-tsx": [
-      "component---src-layouts-index-tsx-a120ed10238754afd732.js",
-      "component---src-layouts-index-tsx-a120ed10238754afd732.js.map"
+      "component---src-layouts-index-tsx-e04171a87aa698fc82d2.js",
+      "component---src-layouts-index-tsx-e04171a87aa698fc82d2.js.map"
     ],
     "path---ru-lyrics-v-kluvikah": [
-      "path---ru-lyrics-v-kluvikah-5e7a34b26d0eb7128c75.js",
-      "path---ru-lyrics-v-kluvikah-5e7a34b26d0eb7128c75.js.map"
+      "path---ru-lyrics-v-kluvikah-edd6a51923d793eb7565.js",
+      "path---ru-lyrics-v-kluvikah-edd6a51923d793eb7565.js.map"
     ],
     "path---en-lyrics-gerbarij": [
-      "path---en-lyrics-gerbarij-11feaa3b044a76a113d2.js",
-      "path---en-lyrics-gerbarij-11feaa3b044a76a113d2.js.map"
+      "path---en-lyrics-gerbarij-779b4079777da06cab0b.js",
+      "path---en-lyrics-gerbarij-779b4079777da06cab0b.js.map"
     ],
     "path---en-news": [
       "path---en-news-46cb24ecbb2dbbe03662.js",
@@ -29,120 +33,136 @@
       "path---en-lyrics-821e0af50d02f62ec808.js.map"
     ],
     "component---src-pages-photos-ru-tsx": [
-      "component---src-pages-photos-ru-tsx-45a7d98260471bbf3e6e.js",
-      "component---src-pages-photos-ru-tsx-45a7d98260471bbf3e6e.js.map"
+      "component---src-pages-photos-ru-tsx-affe59700acf1f7da72b.js",
+      "component---src-pages-photos-ru-tsx-affe59700acf1f7da72b.js.map"
     ],
     "path---en-lyrics-kluviki-not": [
-      "path---en-lyrics-kluviki-not-5bf429c592c1a57344c7.js",
-      "path---en-lyrics-kluviki-not-5bf429c592c1a57344c7.js.map"
+      "path---en-lyrics-kluviki-not-17d5f99dfe2be75fe04f.js",
+      "path---en-lyrics-kluviki-not-17d5f99dfe2be75fe04f.js.map"
     ],
     "path---ru-lyrics-igrushki": [
-      "path---ru-lyrics-igrushki-273a4607f5684999da5f.js",
-      "path---ru-lyrics-igrushki-273a4607f5684999da5f.js.map"
+      "path---ru-lyrics-igrushki-e4d7a0f6b6d41c8123eb.js",
+      "path---ru-lyrics-igrushki-e4d7a0f6b6d41c8123eb.js.map"
     ],
     "path---en-lyrics-perepel": [
-      "path---en-lyrics-perepel-1b395b2792ad111f7667.js",
-      "path---en-lyrics-perepel-1b395b2792ad111f7667.js.map"
+      "path---en-lyrics-perepel-0bc7312d8dcab4971aba.js",
+      "path---en-lyrics-perepel-0bc7312d8dcab4971aba.js.map"
     ],
     "path---ru-news": [
       "path---ru-news-cf8de319cb61e00977bc.js",
       "path---ru-news-cf8de319cb61e00977bc.js.map"
     ],
+    "path---ru-photos-2017-08-18-art-coast": [
+      "path---ru-photos-2017-08-18-art-coast-0edd411303206b19abb8.js",
+      "path---ru-photos-2017-08-18-art-coast-0edd411303206b19abb8.js.map"
+    ],
+    "path---en-photos-2018-06-06-amphibrah-on-grass": [
+      "path---en-photos-2018-06-06-amphibrah-on-grass-af53bff63255f31d304c.js",
+      "path---en-photos-2018-06-06-amphibrah-on-grass-af53bff63255f31d304c.js.map"
+    ],
     "path---en-lyrics-nelzya-morgat": [
-      "path---en-lyrics-nelzya-morgat-a347d33e70076bb2307b.js",
-      "path---en-lyrics-nelzya-morgat-a347d33e70076bb2307b.js.map"
+      "path---en-lyrics-nelzya-morgat-eecbeb2b33532879d39b.js",
+      "path---en-lyrics-nelzya-morgat-eecbeb2b33532879d39b.js.map"
     ],
     "path---en-news-second-post": [
-      "path---en-news-second-post-c716446c27206a9e91ff.js",
-      "path---en-news-second-post-c716446c27206a9e91ff.js.map"
+      "path---en-news-second-post-ab215c0a8fd82479da41.js",
+      "path---en-news-second-post-ab215c0a8fd82479da41.js.map"
     ],
     "path---": [
       "path----08c1df4cb0a34e2330c5.js",
       "path----08c1df4cb0a34e2330c5.js.map"
     ],
     "path---ru-lyrics-nelzya-morgat": [
-      "path---ru-lyrics-nelzya-morgat-c364a1da57296f38bef2.js",
-      "path---ru-lyrics-nelzya-morgat-c364a1da57296f38bef2.js.map"
+      "path---ru-lyrics-nelzya-morgat-a1974905ad5c06f42172.js",
+      "path---ru-lyrics-nelzya-morgat-a1974905ad5c06f42172.js.map"
     ],
     "path---en-about": [
-      "path---en-about-fb55b58880bc53e55b57.js",
-      "path---en-about-fb55b58880bc53e55b57.js.map"
+      "path---en-about-472ddb5c4e68feb7b3a1.js",
+      "path---en-about-472ddb5c4e68feb7b3a1.js.map"
     ],
     "path---ru": [
       "path---ru-6722d93b8e9851cc72ee.js",
       "path---ru-6722d93b8e9851cc72ee.js.map"
     ],
     "path---en-lyrics-podrasti": [
-      "path---en-lyrics-podrasti-ea11e82cc10af4eddfbe.js",
-      "path---en-lyrics-podrasti-ea11e82cc10af4eddfbe.js.map"
+      "path---en-lyrics-podrasti-23823949e364890dd2f9.js",
+      "path---en-lyrics-podrasti-23823949e364890dd2f9.js.map"
     ],
     "component---src-pages-videos-ru-tsx": [
       "component---src-pages-videos-ru-tsx-8963de49850e4eda01f9.js",
       "component---src-pages-videos-ru-tsx-8963de49850e4eda01f9.js.map"
     ],
     "path---en-lyrics-terem": [
-      "path---en-lyrics-terem-5068885e8926ef631172.js",
-      "path---en-lyrics-terem-5068885e8926ef631172.js.map"
+      "path---en-lyrics-terem-dc74a10ca1c2d92fca5d.js",
+      "path---en-lyrics-terem-dc74a10ca1c2d92fca5d.js.map"
     ],
     "path---en-lyrics-krasnaya-pesnya": [
-      "path---en-lyrics-krasnaya-pesnya-18f10ff89b3a244081b3.js",
-      "path---en-lyrics-krasnaya-pesnya-18f10ff89b3a244081b3.js.map"
+      "path---en-lyrics-krasnaya-pesnya-008e50bf16e5c7da9e8c.js",
+      "path---en-lyrics-krasnaya-pesnya-008e50bf16e5c7da9e8c.js.map"
     ],
     "path---en-lyrics-malo": [
-      "path---en-lyrics-malo-81057dc41a8362fa69bd.js",
-      "path---en-lyrics-malo-81057dc41a8362fa69bd.js.map"
+      "path---en-lyrics-malo-cf06d2196a1c6b2a2134.js",
+      "path---en-lyrics-malo-cf06d2196a1c6b2a2134.js.map"
     ],
     "path---en-lyrics-teplo-bezdonnoe": [
-      "path---en-lyrics-teplo-bezdonnoe-a13ab76628e1ea75719a.js",
-      "path---en-lyrics-teplo-bezdonnoe-a13ab76628e1ea75719a.js.map"
+      "path---en-lyrics-teplo-bezdonnoe-30eecbd221f20e7391b0.js",
+      "path---en-lyrics-teplo-bezdonnoe-30eecbd221f20e7391b0.js.map"
     ],
     "path---ru-lyrics-chernoknizhnica": [
-      "path---ru-lyrics-chernoknizhnica-6eba72ad35749b3db7ea.js",
-      "path---ru-lyrics-chernoknizhnica-6eba72ad35749b3db7ea.js.map"
+      "path---ru-lyrics-chernoknizhnica-d969518ce3e91bff8932.js",
+      "path---ru-lyrics-chernoknizhnica-d969518ce3e91bff8932.js.map"
     ],
     "path---ru-lyrics-malchik-batiskaf": [
-      "path---ru-lyrics-malchik-batiskaf-2164c2d1ab5f09958429.js",
-      "path---ru-lyrics-malchik-batiskaf-2164c2d1ab5f09958429.js.map"
+      "path---ru-lyrics-malchik-batiskaf-d25e4a700760e8046fe0.js",
+      "path---ru-lyrics-malchik-batiskaf-d25e4a700760e8046fe0.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---ru-lyrics-ozero": [
-      "path---ru-lyrics-ozero-7bed32e6b76970b8a3ff.js",
-      "path---ru-lyrics-ozero-7bed32e6b76970b8a3ff.js.map"
+      "path---ru-lyrics-ozero-27016f9694029095e867.js",
+      "path---ru-lyrics-ozero-27016f9694029095e867.js.map"
     ],
     "path---en-lyrics-chernoknizhnica": [
-      "path---en-lyrics-chernoknizhnica-c7c269578ac4f4c34514.js",
-      "path---en-lyrics-chernoknizhnica-c7c269578ac4f4c34514.js.map"
+      "path---en-lyrics-chernoknizhnica-8768699520e0b43e0a5e.js",
+      "path---en-lyrics-chernoknizhnica-8768699520e0b43e0a5e.js.map"
     ],
     "path---ru-lyrics-kluviki-not": [
-      "path---ru-lyrics-kluviki-not-f737e8bcb0dae25f6ded.js",
-      "path---ru-lyrics-kluviki-not-f737e8bcb0dae25f6ded.js.map"
+      "path---ru-lyrics-kluviki-not-e879d42bcea402b0a962.js",
+      "path---ru-lyrics-kluviki-not-e879d42bcea402b0a962.js.map"
+    ],
+    "path---en-photos-2017-08-18-art-coast": [
+      "path---en-photos-2017-08-18-art-coast-0a25392dfb8b54d26463.js",
+      "path---en-photos-2017-08-18-art-coast-0a25392dfb8b54d26463.js.map"
     ],
     "path---ru-news-second-post": [
-      "path---ru-news-second-post-24d3633f7c7ccf660b01.js",
-      "path---ru-news-second-post-24d3633f7c7ccf660b01.js.map"
+      "path---ru-news-second-post-10028023f05fc606b1a3.js",
+      "path---ru-news-second-post-10028023f05fc606b1a3.js.map"
     ],
     "path---index": [
       "path---index-1f75a8fde90ddc3b461b.js",
       "path---index-1f75a8fde90ddc3b461b.js.map"
     ],
     "path---ru-lyrics-bez-imeni": [
-      "path---ru-lyrics-bez-imeni-d28d0e44246ff62c0a12.js",
-      "path---ru-lyrics-bez-imeni-d28d0e44246ff62c0a12.js.map"
+      "path---ru-lyrics-bez-imeni-b4efc36c16b7c799ba6d.js",
+      "path---ru-lyrics-bez-imeni-b4efc36c16b7c799ba6d.js.map"
     ],
     "path---en-lyrics-v-kluvikah": [
-      "path---en-lyrics-v-kluvikah-5607ebfa293c5384a0c9.js",
-      "path---en-lyrics-v-kluvikah-5607ebfa293c5384a0c9.js.map"
+      "path---en-lyrics-v-kluvikah-93fec90daff617365fbb.js",
+      "path---en-lyrics-v-kluvikah-93fec90daff617365fbb.js.map"
     ],
     "component---src-pages-videos-en-tsx": [
       "component---src-pages-videos-en-tsx-caa682cb76fc25c44598.js",
       "component---src-pages-videos-en-tsx-caa682cb76fc25c44598.js.map"
     ],
     "path---ru-lyrics-saga-o-ronine": [
-      "path---ru-lyrics-saga-o-ronine-983181ad110208965b04.js",
-      "path---ru-lyrics-saga-o-ronine-983181ad110208965b04.js.map"
+      "path---ru-lyrics-saga-o-ronine-96ad308cf51928a0787c.js",
+      "path---ru-lyrics-saga-o-ronine-96ad308cf51928a0787c.js.map"
+    ],
+    "path---en-photos-2018-03-04-yushin-brothers": [
+      "path---en-photos-2018-03-04-yushin-brothers-940090197b6d3cc8816c.js",
+      "path---en-photos-2018-03-04-yushin-brothers-940090197b6d3cc8816c.js.map"
     ],
     "commons": [
       "commons-481a4c35d1c7058beb12.js",
@@ -151,20 +171,20 @@
       "build-js-styles.css.map"
     ],
     "path---ru-photos": [
-      "path---ru-photos-a4a6cdd832f8eb13fa10.js",
-      "path---ru-photos-a4a6cdd832f8eb13fa10.js.map"
+      "path---ru-photos-b3d96e666dfb41548616.js",
+      "path---ru-photos-b3d96e666dfb41548616.js.map"
     ],
     "path---en-lyrics-to-li": [
-      "path---en-lyrics-to-li-fcba5fef73eb4f44ce69.js",
-      "path---en-lyrics-to-li-fcba5fef73eb4f44ce69.js.map"
+      "path---en-lyrics-to-li-bb2db08d0abf976e75fd.js",
+      "path---en-lyrics-to-li-bb2db08d0abf976e75fd.js.map"
     ],
     "path---ru-about": [
-      "path---ru-about-09db983fa41b4b97cbb4.js",
-      "path---ru-about-09db983fa41b4b97cbb4.js.map"
+      "path---ru-about-f5a27a154cabc607f04d.js",
+      "path---ru-about-f5a27a154cabc607f04d.js.map"
     ],
     "component---src-pages-about-en-tsx": [
-      "component---src-pages-about-en-tsx-ec943eb2378c2307435e.js",
-      "component---src-pages-about-en-tsx-ec943eb2378c2307435e.js.map"
+      "component---src-pages-about-en-tsx-ceacce608417150678bb.js",
+      "component---src-pages-about-en-tsx-ceacce608417150678bb.js.map"
     ],
     "component---src-pages-404-tsx": [
       "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
@@ -175,86 +195,98 @@
       "path---404-html-9afb230f4d1be55068f6.js.map"
     ],
     "path---en-lyrics-ozero": [
-      "path---en-lyrics-ozero-b021ddfc8d2b6f01568a.js",
-      "path---en-lyrics-ozero-b021ddfc8d2b6f01568a.js.map"
+      "path---en-lyrics-ozero-5d937ea5d895ba70128b.js",
+      "path---en-lyrics-ozero-5d937ea5d895ba70128b.js.map"
+    ],
+    "path---ru-photos-2017-10-19-flavored-flat": [
+      "path---ru-photos-2017-10-19-flavored-flat-9fa2cb3681adb6ada7a3.js",
+      "path---ru-photos-2017-10-19-flavored-flat-9fa2cb3681adb6ada7a3.js.map"
     ],
     "path---ru-news-first-post": [
-      "path---ru-news-first-post-2a2c186694dfc54a0e33.js",
-      "path---ru-news-first-post-2a2c186694dfc54a0e33.js.map"
+      "path---ru-news-first-post-ed778d8954e5c7bb7f74.js",
+      "path---ru-news-first-post-ed778d8954e5c7bb7f74.js.map"
     ],
     "path---en-lyrics-igrushki": [
-      "path---en-lyrics-igrushki-d3b7d2668274d0fcfc6d.js",
-      "path---en-lyrics-igrushki-d3b7d2668274d0fcfc6d.js.map"
+      "path---en-lyrics-igrushki-528992466bc844ee2bbd.js",
+      "path---en-lyrics-igrushki-528992466bc844ee2bbd.js.map"
     ],
     "component---src-templates-template-tsx": [
-      "component---src-templates-template-tsx-2bf30cb3dd8463d66182.js",
-      "component---src-templates-template-tsx-2bf30cb3dd8463d66182.js.map"
+      "component---src-templates-template-tsx-3ff43c0aeef0fe3edc0e.js",
+      "component---src-templates-template-tsx-3ff43c0aeef0fe3edc0e.js.map"
     ],
     "path---ru-lyrics-teplo-bezdonnoe": [
-      "path---ru-lyrics-teplo-bezdonnoe-2271e1189b36fa61e282.js",
-      "path---ru-lyrics-teplo-bezdonnoe-2271e1189b36fa61e282.js.map"
+      "path---ru-lyrics-teplo-bezdonnoe-0af8eb457bb798be4ea3.js",
+      "path---ru-lyrics-teplo-bezdonnoe-0af8eb457bb798be4ea3.js.map"
     ],
     "component---src-pages-photos-en-tsx": [
-      "component---src-pages-photos-en-tsx-c124c1a42f484bc61e1e.js",
-      "component---src-pages-photos-en-tsx-c124c1a42f484bc61e1e.js.map"
+      "component---src-pages-photos-en-tsx-cd4e6e06887168da84bc.js",
+      "component---src-pages-photos-en-tsx-cd4e6e06887168da84bc.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---en-lyrics-saga-o-ronine": [
-      "path---en-lyrics-saga-o-ronine-9f8a626ed40e82d0de6a.js",
-      "path---en-lyrics-saga-o-ronine-9f8a626ed40e82d0de6a.js.map"
+      "path---en-lyrics-saga-o-ronine-0b6b3f34b4a9278211ea.js",
+      "path---en-lyrics-saga-o-ronine-0b6b3f34b4a9278211ea.js.map"
     ],
     "path---en-lyrics-malchik-batiskaf": [
-      "path---en-lyrics-malchik-batiskaf-6be2124471490156b509.js",
-      "path---en-lyrics-malchik-batiskaf-6be2124471490156b509.js.map"
+      "path---en-lyrics-malchik-batiskaf-f0bb03a18319e17fbdd7.js",
+      "path---en-lyrics-malchik-batiskaf-f0bb03a18319e17fbdd7.js.map"
     ],
     "path---ru-lyrics-les": [
-      "path---ru-lyrics-les-70e054c59b69fafae998.js",
-      "path---ru-lyrics-les-70e054c59b69fafae998.js.map"
+      "path---ru-lyrics-les-48c3fa9ec1902c1c3e59.js",
+      "path---ru-lyrics-les-48c3fa9ec1902c1c3e59.js.map"
     ],
     "path---en-lyrics-bez-imeni": [
-      "path---en-lyrics-bez-imeni-c6acac5025a081dd6ea7.js",
-      "path---en-lyrics-bez-imeni-c6acac5025a081dd6ea7.js.map"
+      "path---en-lyrics-bez-imeni-a1f84360104eb43dbc66.js",
+      "path---en-lyrics-bez-imeni-a1f84360104eb43dbc66.js.map"
     ],
     "path---en-news-first-post": [
-      "path---en-news-first-post-4555f0816f9a4b54c244.js",
-      "path---en-news-first-post-4555f0816f9a4b54c244.js.map"
+      "path---en-news-first-post-7ee87353dd261e049e00.js",
+      "path---en-news-first-post-7ee87353dd261e049e00.js.map"
     ],
     "path---ru-lyrics-podrasti": [
-      "path---ru-lyrics-podrasti-6162bcd6242596b7f2c1.js",
-      "path---ru-lyrics-podrasti-6162bcd6242596b7f2c1.js.map"
+      "path---ru-lyrics-podrasti-99d2931c6991f015b80f.js",
+      "path---ru-lyrics-podrasti-99d2931c6991f015b80f.js.map"
     ],
     "path---ru-lyrics-gerbarij": [
-      "path---ru-lyrics-gerbarij-a6a5c860bd167ebff65a.js",
-      "path---ru-lyrics-gerbarij-a6a5c860bd167ebff65a.js.map"
+      "path---ru-lyrics-gerbarij-7b0fe47a03b8a2f5d8d6.js",
+      "path---ru-lyrics-gerbarij-7b0fe47a03b8a2f5d8d6.js.map"
     ],
     "component---src-pages-index-tsx": [
-      "component---src-pages-index-tsx-97fde3f5cdbc380fbeee.js",
-      "component---src-pages-index-tsx-97fde3f5cdbc380fbeee.js.map"
+      "component---src-pages-index-tsx-832075fa67815b45f665.js",
+      "component---src-pages-index-tsx-832075fa67815b45f665.js.map"
     ],
     "path---ru-lyrics-terem": [
-      "path---ru-lyrics-terem-d2aec9677041d90a3990.js",
-      "path---ru-lyrics-terem-d2aec9677041d90a3990.js.map"
+      "path---ru-lyrics-terem-661e51eda54bb477f49e.js",
+      "path---ru-lyrics-terem-661e51eda54bb477f49e.js.map"
     ],
     "component---src-pages-news-ru-tsx": [
-      "component---src-pages-news-ru-tsx-a8e4fdc5352293c5cf25.js",
-      "component---src-pages-news-ru-tsx-a8e4fdc5352293c5cf25.js.map"
+      "component---src-pages-news-ru-tsx-a8c667c21fe2fbfe2ab1.js",
+      "component---src-pages-news-ru-tsx-a8c667c21fe2fbfe2ab1.js.map"
+    ],
+    "path---ru-photos-2018-03-04-yushin-brothers": [
+      "path---ru-photos-2018-03-04-yushin-brothers-911cb559c09d9515f0be.js",
+      "path---ru-photos-2018-03-04-yushin-brothers-911cb559c09d9515f0be.js.map"
     ],
     "component---src-pages-news-en-tsx": [
-      "component---src-pages-news-en-tsx-13c06867191bc8d36866.js",
-      "component---src-pages-news-en-tsx-13c06867191bc8d36866.js.map"
+      "component---src-pages-news-en-tsx-b09bfe086f1cc194e8ad.js",
+      "component---src-pages-news-en-tsx-b09bfe086f1cc194e8ad.js.map"
+    ],
+    "path---ru-photos-2018-06-06-amphibrah-on-grass": [
+      "path---ru-photos-2018-06-06-amphibrah-on-grass-f370dd2ce4175742c822.js",
+      "path---ru-photos-2018-06-06-amphibrah-on-grass-f370dd2ce4175742c822.js.map"
     ],
     "app": [
-      "app-0e22feadd6648d08f344.js",
+      "app-9b760cc0b8fe492eebb8.js",
       "build-js-styles.css",
-      "app-0e22feadd6648d08f344.js.map",
+      "app-9b760cc0b8fe492eebb8.js.map",
       "build-js-styles.css.map"
     ],
     "path---en-photos": [
-      "path---en-photos-678c6b77d94217b903bc.js",
-      "path---en-photos-678c6b77d94217b903bc.js.map"
+      "path---en-photos-07e782e1216630cdb422.js",
+      "path---en-photos-07e782e1216630cdb422.js.map"
     ],
     "path---ru-videos": [
       "path---ru-videos-08c8df2d4e53430c6c61.js",
@@ -269,16 +301,20 @@
       "path---en-videos-12553282c7cfd541dd2e.js.map"
     ],
     "component---src-pages-index-en-tsx": [
-      "component---src-pages-index-en-tsx-4c8af9a2a7b5fc10927e.js",
-      "component---src-pages-index-en-tsx-4c8af9a2a7b5fc10927e.js.map"
+      "component---src-pages-index-en-tsx-27ee950215d008ab3b1c.js",
+      "component---src-pages-index-en-tsx-27ee950215d008ab3b1c.js.map"
+    ],
+    "component---src-templates-photos-tsx": [
+      "component---src-templates-photos-tsx-52ca2dc4cb59d465d550.js",
+      "component---src-templates-photos-tsx-52ca2dc4cb59d465d550.js.map"
     ],
     "path---ru-lyrics-malo": [
-      "path---ru-lyrics-malo-a904fada7be6144ba78a.js",
-      "path---ru-lyrics-malo-a904fada7be6144ba78a.js.map"
+      "path---ru-lyrics-malo-7cc56a3c4665ec1c6559.js",
+      "path---ru-lyrics-malo-7cc56a3c4665ec1c6559.js.map"
     ],
     "path---ru-lyrics-perepel": [
-      "path---ru-lyrics-perepel-48809058025a63140fd0.js",
-      "path---ru-lyrics-perepel-48809058025a63140fd0.js.map"
+      "path---ru-lyrics-perepel-9b24b5f387e208443cbb.js",
+      "path---ru-lyrics-perepel-9b24b5f387e208443cbb.js.map"
     ],
     "path---en": [
       "path---en-cb7552daa6da55e7c330.js",
@@ -289,32 +325,32 @@
       "path---404-9afb230f4d1be55068f6.js.map"
     ],
     "component---src-pages-lyrics-en-tsx": [
-      "component---src-pages-lyrics-en-tsx-eee78835aa2bb95bb12f.js",
-      "component---src-pages-lyrics-en-tsx-eee78835aa2bb95bb12f.js.map"
+      "component---src-pages-lyrics-en-tsx-4a887a2483757ee5f309.js",
+      "component---src-pages-lyrics-en-tsx-4a887a2483757ee5f309.js.map"
     ],
     "path---en-lyrics-les": [
-      "path---en-lyrics-les-7d694320bc524211799e.js",
-      "path---en-lyrics-les-7d694320bc524211799e.js.map"
+      "path---en-lyrics-les-f17994766d2dfb2eb4b5.js",
+      "path---en-lyrics-les-f17994766d2dfb2eb4b5.js.map"
     ],
     "path---ru-lyrics-to-li": [
-      "path---ru-lyrics-to-li-4a12abb5b365fcc6b2e1.js",
-      "path---ru-lyrics-to-li-4a12abb5b365fcc6b2e1.js.map"
+      "path---ru-lyrics-to-li-b967d3c24e1d955bf800.js",
+      "path---ru-lyrics-to-li-b967d3c24e1d955bf800.js.map"
     ],
     "component---src-pages-about-ru-tsx": [
-      "component---src-pages-about-ru-tsx-b7fa56bdbf0f6d673d1b.js",
-      "component---src-pages-about-ru-tsx-b7fa56bdbf0f6d673d1b.js.map"
+      "component---src-pages-about-ru-tsx-fedcd0525e4c3c453a26.js",
+      "component---src-pages-about-ru-tsx-fedcd0525e4c3c453a26.js.map"
     ],
     "path---en-lyrics-vnutri-gerbariya": [
-      "path---en-lyrics-vnutri-gerbariya-9ec7ff004c4a1ddd3c99.js",
-      "path---en-lyrics-vnutri-gerbariya-9ec7ff004c4a1ddd3c99.js.map"
+      "path---en-lyrics-vnutri-gerbariya-5cf04c5c407b5af0d289.js",
+      "path---en-lyrics-vnutri-gerbariya-5cf04c5c407b5af0d289.js.map"
     ],
     "component---src-pages-index-ru-tsx": [
-      "component---src-pages-index-ru-tsx-750dfb226c0bec7533ef.js",
-      "component---src-pages-index-ru-tsx-750dfb226c0bec7533ef.js.map"
+      "component---src-pages-index-ru-tsx-9353ab817beafea9ec5c.js",
+      "component---src-pages-index-ru-tsx-9353ab817beafea9ec5c.js.map"
     ],
     "path---ru-lyrics-vnutri-gerbariya": [
-      "path---ru-lyrics-vnutri-gerbariya-c392816d25198208f9e8.js",
-      "path---ru-lyrics-vnutri-gerbariya-c392816d25198208f9e8.js.map"
+      "path---ru-lyrics-vnutri-gerbariya-da5aba4d2b298a5278a3.js",
+      "path---ru-lyrics-vnutri-gerbariya-da5aba4d2b298a5278a3.js.map"
     ]
   }
 }
