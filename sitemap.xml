@@ -8,6 +8,12 @@
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/2018-03-04-yushin-brothers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/photos/2018-06-06-amphibrah-on-grass/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/2018-06-06-amphibrah-on-grass/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/photos/2018-08-26-art-festival-baikal-live/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/2018-08-26-art-festival-baikal-live/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/photos/2018-09-01-summer-kitchen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/2018-09-01-summer-kitchen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/photos/2018-09-08-art-bereg-closing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/2018-09-08-art-bereg-closing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/news/firstPost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/news/firstPost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/news/secondPost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,8 +31,8 @@
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/krasnayaPesnya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/krasnayaPesnya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/les/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/les/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/malchikBatiskaf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/les/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/malchikBatiskaf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/malo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/malo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,22 +40,22 @@
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/nelzyaMorgat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/ozero/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/ozero/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/perepel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/perepel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/podrasti/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/sagaORonine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/perepel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/podrasti/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/sagaORonine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/sagaORonine/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/terem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/teploBezdonnoe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/teploBezdonnoe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/terem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/terem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/toLi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/toLi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/vKluvikah/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/vKluvikah/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/vnutriGerbariya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/lyrics/vnutriGerbariya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://test.caddysmellsliketrees.ru/en/lyrics/vnutriGerbariya/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -61,6 +67,4 @@
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/news/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/en/photos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://test.caddysmellsliketrees.ru/ru/photos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/en/videos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://test.caddysmellsliketrees.ru/ru/videos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
