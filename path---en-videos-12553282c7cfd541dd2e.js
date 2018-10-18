@@ -1,2 +1,2 @@
-webpackJsonp([0xdb64bfd365f3],{774:function(e,n){e.exports={pathContext:{slug:"/en/videos/",langKey:"en"}}}});
+webpackJsonp([0xdb64bfd365f3],{775:function(e,n){e.exports={pathContext:{slug:"/en/videos/",langKey:"en"}}}});
 //# sourceMappingURL=path---en-videos-12553282c7cfd541dd2e.js.map
