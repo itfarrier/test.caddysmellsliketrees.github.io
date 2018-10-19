@@ -1,2 +1,0 @@
-webpackJsonp([71637807070149],{514:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=a(88),s=a(9),r=a(79),l=function(e){var t=e.i18nMessages,a=e.i18nMessages,l=(a.description,a.keywords,a.pageNames.videos);return s.createElement(s.Fragment,null,s.createElement(r.default,{i18nMessages:t,page:l}),s.createElement("h1",null,l),s.createElement(n.default,{to:"/en/"},"Back to the index page"))};t.default=l}});
-//# sourceMappingURL=component---src-pages-videos-ru-tsx-8963de49850e4eda01f9.js.map
